@@ -5,7 +5,6 @@ This is a Python script that visualizes dimensions from 0D (Point) up to 10D (Hy
 ## How to Run
 
 1.  Make sure you have Python installed.
-    ```
 2.  Run the script:
     ```
     python main.py
